@@ -1,6 +1,5 @@
 <p align="center">
   <img src="https://img.icons8.com/ios-filled/100/000000/phone.png" alt="Phone Icon" width="70"/>
-  <img src="https://img.icons8.com/fluency/96/000000/caller-id.png" alt="Caller ID Icon" width="70"/>
   <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python Icon" width="70"/>
 </p>
 
