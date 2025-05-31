@@ -1,16 +1,15 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Call SPI Logo" width="120"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/phone.png" alt="Phone Icon" width="80"/>
 </p>
 
 <h1 align="center">Call SPI - Custom Caller ID</h1>
 
 <p align="center">
-  <img src="assets/phone_icon.png" alt="Phone Icon" width="60"/>
-  <img src="assets/callerid_icon.png" alt="Caller ID Icon" width="60"/>
+  <img src="https://img.icons8.com/fluency/48/000000/caller-id.png" alt="Caller ID Icon" width="48"/>
 </p>
 
 <p align="center">
-  <b>Call SPI</b> is a simple Python application for making automated calls via a telephony Service Provider Interface (SPI), supporting custom caller ID features.
+  <b>Call SPI</b> is a Python application for making automated calls via a telephony Service Provider Interface (SPI), supporting custom caller ID features.
 </p>
 
 ---
@@ -54,12 +53,6 @@ make_call(
 - Update your SPI provider API credentials in `main.py`.
 - Set the default caller ID and message as needed.
 
-## Assets
-
-- **Logo:** ![Logo](assets/logo.png)
-- **Phone Icon:** ![Phone Icon](assets/phone_icon.png)
-- **Caller ID Icon:** ![Caller ID Icon](assets/callerid_icon.png)
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
@@ -67,5 +60,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 <p align="center">
-  Made with ❤️ for automated communications.
+  Made with <span style="color: #e25555;">&#10084;</span> for automated communications.
 </p>
