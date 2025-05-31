@@ -1,25 +1,30 @@
 <p align="center">
-  <img src="https://img.icons8.com/ios-filled/100/000000/phone.png" alt="Phone Icon" width="80"/>
+  <img src="https://img.icons8.com/ios-filled/100/000000/phone.png" alt="Phone Icon" width="70"/>
+  <img src="https://img.icons8.com/fluency/96/000000/caller-id.png" alt="Caller ID Icon" width="70"/>
+  <img src="https://img.icons8.com/color/96/000000/python--v1.png" alt="Python Icon" width="70"/>
 </p>
 
 <h1 align="center">Call SPI - Custom Caller ID</h1>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/caller-id.png" alt="Caller ID Icon" width="48"/>
+  <b>Call SPI</b> is a Python application for making automated calls via a telephony Service Provider Interface (SPI), supporting custom caller ID features.
 </p>
 
 <p align="center">
-  <b>Call SPI</b> is a Python application for making automated calls via a telephony Service Provider Interface (SPI), supporting custom caller ID features.
+  <a href="https://t.me/your_telegram_chat">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Icon" width="32"/>
+    <b>Join our Telegram Chat</b>
+  </a>
 </p>
 
 ---
 
 ## Features
 
-- Make automated outbound calls.
-- Set a custom caller ID for each call.
-- Easy-to-use Python API.
-- Configurable and extensible.
+- 📞 Make automated outbound calls.
+- 🆔 Set a custom caller ID for each call.
+- 🐍 Easy-to-use Python API.
+- ⚙️ Configurable and extensible.
 
 ## Installation
 
